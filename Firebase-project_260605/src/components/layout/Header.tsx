@@ -119,7 +119,7 @@ function CartDrawer() {
         <ShoppingCart className="h-16 w-16 text-muted-foreground opacity-20" />
         <p className="text-lg font-medium text-muted-foreground">Your cart is empty</p>
         <Button asChild variant="outline">
-          <Link href="/shop">Bắt đầu mua sắm</Link>
+          <Link href="/shop">abc</Link>
         </Button>
       </div>
     );
