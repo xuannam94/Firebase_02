@@ -1,0 +1,46 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Modern corporate office building",
+      "imageUrl": "https://picsum.photos/seed/corporate-hero/1920/1080",
+      "imageHint": "corporate office"
+    },
+    {
+      "id": "product-1",
+      "description": "Premium Business Laptop",
+      "imageUrl": "https://picsum.photos/seed/laptop/600/600",
+      "imageHint": "laptop computer"
+    },
+    {
+      "id": "product-2",
+      "description": "Ergonomic Office Chair",
+      "imageUrl": "https://picsum.photos/seed/chair/600/600",
+      "imageHint": "office chair"
+    },
+    {
+      "id": "product-3",
+      "description": "Wireless Noise-Cancelling Headphones",
+      "imageUrl": "https://picsum.photos/seed/headphones/600/600",
+      "imageHint": "headphones"
+    },
+    {
+      "id": "product-4",
+      "description": "Smart Desk Lamp",
+      "imageUrl": "https://picsum.photos/seed/lamp/600/600",
+      "imageHint": "desk lamp"
+    },
+    {
+      "id": "team-1",
+      "description": "CEO and Founder",
+      "imageUrl": "https://picsum.photos/seed/ceo/400/400",
+      "imageHint": "professional man"
+    },
+    {
+      "id": "team-2",
+      "description": "CTO",
+      "imageUrl": "https://picsum.photos/seed/cto/400/400",
+      "imageHint": "professional woman"
+    }
+  ]
+}
