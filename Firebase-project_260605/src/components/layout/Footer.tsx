@@ -52,11 +52,11 @@ export default function Footer() {
               </li>
               <li className="flex items-center space-x-3">
                 <Phone size={18} />
-                <span>+1 (555) 123-4567</span>
+                <span>0372 559 065</span>
               </li>
               <li className="flex items-center space-x-3">
                 <Mail size={18} />
-                <span>support@primemarketpro.com</span>
+                <span>nam.ho@wontae.com</span>
               </li>
             </ul>
           </div>
